@@ -16,4 +16,24 @@ The project utilizes a Student Depression Dataset comprising survey responses fo
 Size: 27,901 entries
 ## Data Dictionary 
 <img width="738" height="664" alt="image" src="https://github.com/user-attachments/assets/2cbec6b2-74fb-49c7-a3be-736850a4a54b" />
-
+## Key Findings 
+The analysis revealed several strong correlations and insights into student mental health:
+Age Group at Risk: The 19−24 age group showed the highest distribution of depressed students, accounting for 43.54% of the depressed cohort.
+Academic Pressure & Satisfaction: Students reporting the lowest level of Study Satisfaction (Rating 0) had the highest percentage of depression (≈60%).
+Surprisingly, depressed students had a slightly higher average CGPA (7.68) compared to non-depressed students (7.62), suggesting depression is not strictly correlated with low grades but may be linked to high-achieving stress.
+Lifestyle Factors: The highest percentage of depression (32.84%) was found in students reporting 'Less than 5 hours' of sleep duration.
+A high percentage of students reported Unhealthy dietary habits (44.69%).
+Stress and Suicidal Thoughts:
+Financial Stress showed a powerful correlation with depression and suicidal thoughts. Of the students reporting the highest level of financial stress (Rating 5), 33.41% were depressed, and 75.71% of this group reported suicidal thoughts.
+79.05% of students who reported having suicidal thoughts were classified as depressed, highlighting the severity of the mental health crisis.
+## Recommendations
+Based on the findings, targeted interventions are recommended for key stakeholders:
+For Students:
+Prioritize Sleep: Aim for the recommended 7−8 hours of sleep, as insufficient sleep is strongly linked to depression.
+Monitor Study Load: Be mindful of study/work hours to prevent burnout.
+For Families:
+Financial Dialogue: Proactively discuss and mitigate financial stress, given its strong link to suicidal ideation.
+Create a Supportive Environment: Be aware of a family history of mental illness as a potential risk factor.
+For Institutions/Instructors:
+Implement Early Screening: Use surveys or tools to monitor students' Study Satisfaction and Academic Pressure levels, which are strong indicators of mental distress.
+Promoting sleep and health: Educating students about the importance of sleep and proper nutrition through workshops and campus events
