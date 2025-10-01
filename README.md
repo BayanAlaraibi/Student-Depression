@@ -1,5 +1,5 @@
 # Student Depression
-## Project Overviewie 
+## Project Overview
 This project involves the analysis of 27,901 student survey responses from different Indian institute, to identify key risk factors for depression among the student population, with a particular focus on academic, lifestyle, and financial stressors. The ultimate goal is to enable early detection and inform targeted mental health interventions.
 ## Problem Statement
 Depression is a critical mental health issue globally, with an alarmingly high reported rate of 58.55% among the surveyed student population in India. This condition negatively impacts academic performance, concentration, and motivation, and in severe cases, can lead to suicidal ideation.
