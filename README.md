@@ -48,3 +48,23 @@ Create a Supportive Environment: Be aware of a family history of mental illness 
 For Institutions/Instructors:
 Implement Early Screening: Use surveys or tools to monitor students' Study Satisfaction and Academic Pressure levels, which are strong indicators of mental distress.
 Promoting sleep and health: Educating students about the importance of sleep and proper nutrition through workshops and campus events
+
+## Limitations
+absence of chronological progression of the condition, potential missing aspects of the student's full life complexity, and ignoring other significant factors like social support systems or prior traumatic experiences
+
+## Assumption
+The Work Pressure and Job Satisfaction columns are filled with zeros, it might mean the students are not working. 
+
+## Resources 
+[Student Depression Dataset](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset)
+[Prevalence of Depression Among Indian Population](https://www.ojhas.org/issue72/2019-4-12.html)
+[video](https://youtu.be/vKpGddXSYik?si=7eSoacfQ2VD2I0c3)
+
+
+
+
+
+
+
+
+
