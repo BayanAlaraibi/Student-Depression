@@ -57,7 +57,9 @@ The Work Pressure and Job Satisfaction columns are filled with zeros, it might m
 
 ## Resources 
 [Student Depression Dataset](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset)
+
 [Prevalence of Depression Among Indian Population](https://www.ojhas.org/issue72/2019-4-12.html)
+
 [video](https://youtu.be/vKpGddXSYik?si=7eSoacfQ2VD2I0c3)
 
 
