@@ -55,12 +55,26 @@ absence of chronological progression of the condition, potential missing aspects
 ## Assumption
 The Work Pressure and Job Satisfaction columns are filled with zeros, it might mean the students are not working. 
 
+## Conclusion
+Warning Sign: The most powerful warning sign is suicidal thoughts, which are closely linked to depression.
+Key Risk Factors:
+Age: The 19-24 age group is most vulnerable to depression and suicidal thoughts.
+Stress: High levels of academic stress, especially severe financial stress, significantly increase the risk of depression and suicidal thoughts.
+Lifestyle: Harmful lifestyle factors include an average of 8 hours of work/study per day, poor sleep (less than 5 hours), and unhealthy eating habits.
+By focusing on these specific indicators: age, lifestyle, and stress levels educational institutions and families can implement targeted support systems to intervene before the silent collapse behind success turns into tragedy.
+
 ## Resources 
 [Student Depression Dataset](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset)
 
 [Prevalence of Depression Among Indian Population](https://www.ojhas.org/issue72/2019-4-12.html)
 
 [video](https://youtu.be/vKpGddXSYik?si=7eSoacfQ2VD2I0c3)
+
+[Associations Between Academic Stress and Depressive](https://pmc.ncbi.nlm.nih.gov/articles/PMC8906854/)
+
+[Relationship between night-sleep duration and risk for depression](https://pmc.ncbi.nlm.nih.gov/articles/PMC10017495/)
+
+
 
 
 
