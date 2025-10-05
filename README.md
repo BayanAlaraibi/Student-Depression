@@ -17,6 +17,10 @@ Size: 27,901 entries
 ## Data Dictionary 
 <img width="738" height="664" alt="image" src="https://github.com/user-attachments/assets/2cbec6b2-74fb-49c7-a3be-736850a4a54b" />
 
+## Analysis Tools
+- Python
+- Power BI
+
 ## Key Findings 
 The analysis revealed several strong correlations and insights into student mental health:
 Age Group at Risk: The 19−24 age group showed the highest distribution of depressed students, accounting for 43.54% of the depressed cohort.
