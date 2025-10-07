@@ -10,6 +10,8 @@ Demographic Analysis: How does depression prevalence vary across different age g
 Academic Indicators: Is there a relationship between depression status and factors like CGPA, Study Satisfaction, and Academic Pressure?
 Student Lifestyle: How do factors such as Sleep Duration, Dietary Habits, and Work/Study Hours correlate with depression status?
 Family & Stress Factors: What is the association between depression and Financial Stress, Family History of Mental Illness, and the presence of Suicidal Thoughts?
+## Target Audience
+Students/ Family/ Instructors 
 ## Data 
 - Dataset taking from kaggle website 
 The project utilizes a Student Depression Dataset comprising survey responses focusing on factors that correlate with depression.
