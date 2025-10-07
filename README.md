@@ -76,15 +76,18 @@ Depression Status and Suicidal Thoughts: Among students who reported having suic
 
 ## Recommendations
 Based on the findings, targeted interventions are recommended for key stakeholders:
-For Students:
+
+### For Students:
 Prioritize Sleep: Aim for the recommended 7−8 hours of sleep, as insufficient sleep is strongly linked to depression.
 Monitor Study Load: Be mindful of study/work hours to prevent burnout.
 use a time managment skills: Balance is Key, Not Constant Work ,Long, unbalanced study hours are linked to depression. 
-For Families:
+
+### For Families:
 Emphasize the importance of a student's health and happiness over academic performance. 
 Financial Dialogue: Proactively discuss and mitigate financial stress, given its strong link to suicidal ideation.
 Create a Supportive Environment: Be aware of a family history of mental illness as a potential risk factor.
-For Institutions/Instructors:
+
+### For Institutions/Instructors:
 Implement Early Screening: Use surveys or tools to monitor students' Study Satisfaction and Academic Pressure levels, which are strong indicators of mental distress.
 Promoting sleep and health: Educating students about the importance of sleep and proper nutrition through workshops and campus events
 
