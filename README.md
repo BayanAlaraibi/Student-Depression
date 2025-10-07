@@ -22,7 +22,7 @@ Size: 27,901 entries and 18 columns
 - Power BI
 
 ## Key Findings 
-Demographics:
+### Demographics:
 Depression by Gender: male were found to have a higher percentage of depression at 55.8%, compared to female at 44.2%.
 Top 5 Cities with Depressed Students: The city of Kalyan had the highest number of depressed students (934), followed by Hyderabad (897).
 
@@ -32,7 +32,7 @@ Most Affected Age Group: The 19–24 age group was the most affected by both dep
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/ad717b43-8da1-4ef6-b8c1-71427f3c181e" />
 
 
-Academic Indicators:
+### Academic Indicators:
 Study Satisfaction: (ranging from 0, indicating the lowest satisfaction, to 5, indicating the highest). For example, at satisfaction level 0, 60.00% were depressed, which means there is a strong relationship between unhappiness and depression. 
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/99cad793-2d7a-48bc-a4e6-49a583518255" />
@@ -45,7 +45,7 @@ Academic Pressure and Suicidal Thoughts: There is an increasing trend of suicida
 
 <img width="1916" height="1074" alt="image" src="https://github.com/user-attachments/assets/7a634c80-dd6c-4305-bbca-89cc5f38203d" />
 
-Student Lifestyle:
+### Student Lifestyle:
 
 Study Hours Per Day: more depressed students who study 10-12 hrs. The average daily work/study duration for depressed students is 8 hours.
 
@@ -59,7 +59,7 @@ Sleep Duration: The majority of depressed students reported sleeping "Less than 
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/21e0f42e-63de-4a90-9236-299468e80f4a" />
 
-Family History & Financial Stress:
+### Family History & Financial Stress:
 
 Family History of Mental Illness: The distribution between students with and without a family history of mental illness was nearly even, with 50.64% of students having a family history of mental illness.
 
