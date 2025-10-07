@@ -1,6 +1,6 @@
 # Student Depression
 ## Project Overview
-This project involves the analysis of 27,901 student survey responses from different Indian institute, to identify key risk factors for depression among the student population, with a particular focus on academic, lifestyle, and financial stressors. The ultimate goal is to enable early detection and inform targeted mental health interventions.
+This project involves the analysis of 28K student survey responses from different Indian institute, to identify key risk factors for depression among the student population, with a particular focus on academic, lifestyle, and financial stressors. The ultimate goal is to enable early detection and inform targeted mental health interventions.
 ## Problem Statement
 Depression is a critical mental health issue globally, with an alarmingly high reported rate of 58.55% among the surveyed student population in India. This condition negatively impacts academic performance, concentration, and motivation, and in severe cases, can lead to suicidal ideation.
 ## Main Goal
@@ -10,10 +10,10 @@ Demographic Analysis: How does depression prevalence vary across different age g
 Academic Indicators: Is there a relationship between depression status and factors like CGPA, Study Satisfaction, and Academic Pressure?
 Student Lifestyle: How do factors such as Sleep Duration, Dietary Habits, and Work/Study Hours correlate with depression status?
 Family & Stress Factors: What is the association between depression and Financial Stress, Family History of Mental Illness, and the presence of Suicidal Thoughts?
-## Data & Methodology
-- Dataset
+## Data 
+- Dataset taking from kaggle website 
 The project utilizes a Student Depression Dataset comprising survey responses focusing on factors that correlate with depression.
-Size: 27,901 entries
+Size: 27,901 entries and 18 columns
 ## Data Dictionary 
 <img width="738" height="664" alt="image" src="https://github.com/user-attachments/assets/2cbec6b2-74fb-49c7-a3be-736850a4a54b" />
 
@@ -22,22 +22,57 @@ Size: 27,901 entries
 - Power BI
 
 ## Key Findings 
-The analysis revealed several strong correlations and insights into student mental health:
-Age Group at Risk: The 19−24 age group showed the highest distribution of depressed students, accounting for 43.54% of the depressed cohort.
-<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/9b377929-1f23-4b7f-941f-5ab27f9f468e" />
+Demographics:
+Depression by Gender: male were found to have a higher percentage of depression at 55.8%, compared to female at 44.2%.
+Top 5 Cities with Depressed Students: The city of Kalyan had the highest number of depressed students (934), followed by Hyderabad (897).
 
-Academic Pressure & Satisfaction: Students reporting the lowest level of Study Satisfaction (Rating 0) had the highest percentage of depression (≈60%).
-Surprisingly, depressed students had a slightly higher average CGPA (7.68) compared to non-depressed students (7.62), suggesting depression is not strictly correlated with low grades but may be linked to high-achieving stress.
-<img width="1919" height="1068" alt="image" src="https://github.com/user-attachments/assets/42f04d22-a16f-46f4-a665-f2acb7df12a7" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/87ade3b0-6a6c-4194-b229-9241faf74890" />
 
-Lifestyle Factors: The highest percentage of depression (32.84%) was found in students reporting 'Less than 5 hours' of sleep duration.
-A high percentage of students reported Unhealthy dietary habits (44.69%).
-<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/f3421e34-15dc-4748-8312-ca6fba92b248" />
+Most Affected Age Group: The 19–24 age group was the most affected by both depression (43.54%) and suicidal thoughts 37%. 
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/ad717b43-8da1-4ef6-b8c1-71427f3c181e" />
 
-Stress and Suicidal Thoughts:
-Financial Stress showed a powerful correlation with depression and suicidal thoughts. students reporting the highest level of financial stress (Rating 5), 33.41% were depressed, and 75.71% of this group reported suicidal thoughts.
-79.05% of students who reported having suicidal thoughts were classified as depressed, highlighting the severity of the mental health crisis.
-<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/1b18944e-b7e2-4a8f-b450-8193c5671726" />
+
+Academic Indicators:
+Study Satisfaction: (ranging from 0, indicating the lowest satisfaction, to 5, indicating the highest). For example, at satisfaction level 0, 60.00% were depressed, which means there is a strong relationship between unhappiness and depression. 
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/99cad793-2d7a-48bc-a4e6-49a583518255" />
+
+Academic Pressure: Students who were "Depressed" represented the largest percentage of students at all levels of academic pressure (from 1 to 5). The highest percentage of depressed students (19.43% of all students) was found in the group reporting the highest academic pressure (level 5), which means a direct relationship here. 
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/cc913847-b036-4e75-91ea-eeed883017ef" />
+
+Academic Pressure and Suicidal Thoughts: There is an increasing trend of suicidal thoughts as the level of academic pressure increases (from 1 to 5). The number of students who reported suicidal thoughts was highest at academic pressure level 5.
+
+<img width="1916" height="1074" alt="image" src="https://github.com/user-attachments/assets/7a634c80-dd6c-4305-bbca-89cc5f38203d" />
+
+Student Lifestyle:
+
+Study Hours Per Day: more depressed students who study 10-12 hrs. The average daily work/study duration for depressed students is 8 hours.
+
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/b483f91f-3904-4ea5-bae4-55cf93a59285" />
+
+Relationship between Dietary Habits & Depression: The largest percentage of depressed students reported "Unhealthy" dietary habits (44.69%).
+
+<img width="1916" height="1072" alt="image" src="https://github.com/user-attachments/assets/02f9df0f-7870-4952-8e9b-13d871e671f3" />
+
+Sleep Duration: The majority of depressed students reported sleeping "Less than 5 hours" (32.82%).
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/21e0f42e-63de-4a90-9236-299468e80f4a" />
+
+Family History & Financial Stress:
+
+Family History of Mental Illness: The distribution between students with and without a family history of mental illness was nearly even, with 50.64% of students having a family history of mental illness.
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/813af366-0ac0-4ad9-8c05-3f4ebf92d33a" />
+
+Financial Stress: The highest percentage of depressed students (33.41%) reported the highest level of financial stress (level 5).
+Financial Stress and Suicidal Thoughts: The percentage of students reporting suicidal thoughts increases with the level of financial stress. For students at financial stress level 5, 75.71% reported having suicidal thoughts.
+
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/bc4e27c2-aef5-43d9-981e-65eafe09f13b" />
+
+Depression Status and Suicidal Thoughts: Among students who reported having suicidal thoughts, 79.05% were also classified as depressed.
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/8d415216-424a-46aa-80c9-5c121819eee1" />
 
 ## Recommendations
 Based on the findings, targeted interventions are recommended for key stakeholders:
