@@ -1,29 +1,25 @@
 # Student Depression
+### Silent Collapse Behind Success
 ## Project Overview
-This project involves the analysis of 28K student survey responses from different Indian institute, to identify key risk factors for depression among the student population, with a particular focus on academic, lifestyle, and financial stressors. The ultimate goal is to enable early detection and inform targeted mental health interventions.
-## Problem Statement
-Depression is a critical mental health issue globally, with an alarmingly high reported rate of 58.55% among the surveyed student population in India. This condition negatively impacts academic performance, concentration, and motivation, and in severe cases, can lead to suicidal ideation.
-## Main Goal
-To enable the early detection of depression in students by identifying significant warning signs and risk factors, forming the basis for effective mental health improvement strategies.
-## Objective 
-Demographic Analysis: How does depression prevalence vary across different age groups and genders?
-Academic Indicators: Is there a relationship between depression status and factors like CGPA, Study Satisfaction, and Academic Pressure?
-Student Lifestyle: How do factors such as Sleep Duration, Dietary Habits, and Work/Study Hours correlate with depression status?
-Family & Stress Factors: What is the association between depression and Financial Stress, Family History of Mental Illness, and the presence of Suicidal Thoughts?
-## Target Audience
-Students/ Family/ Instructors 
-## Data 
-- Dataset taking from kaggle website 
-The project utilizes a Student Depression Dataset comprising survey responses focusing on factors that correlate with depression.
+This project involves the analysis of 28K student survey responses from different Indian institute, to identify key risk factors for depression among the student, with a particular focus on academic, lifestyle, and financial stressors. 
+## project Goal
+To enable early detection of depression among students by identifying warning signs and risk factors related to:
+- Academic pressure
+- Financial stress
+- Sleep and dietary habits
+- Family history of mental illness
+## Dataseat 
+- Dataset taking from kaggle website
+  [Student Depression Dataset](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset)
 Size: 27,901 entries and 18 columns
-## Data Dictionary 
+### Data Dictionary 
 <img width="738" height="664" alt="image" src="https://github.com/user-attachments/assets/2cbec6b2-74fb-49c7-a3be-736850a4a54b" />
 
 ## Analysis Tools
 - Python
 - Power BI
 
-## Key Findings 
+## Key Insights& Visiulization 
 ### Demographics:
 Depression by Gender: male were found to have a higher percentage of depression at 55.8%, compared to female at 44.2%.
 Top 5 Cities with Depressed Students: The city of Kalyan had the highest number of depressed students (934), followed by Hyderabad (897).
@@ -76,46 +72,27 @@ Depression Status and Suicidal Thoughts: Among students who reported having suic
 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/8d415216-424a-46aa-80c9-5c121819eee1" />
 
+## Conclusion
+Warning signs of depression include suicidal thoughts, especially among young adults aged 19–24.
+Major risk factors:
+Academic and financial pressure
+Poor sleep and nutrition
+Excessive work or study hours
+Educational institutions and families should develop support systems to help students manage these challenges and prevent mental health deterioration.
+
 ## Recommendations
-Based on the findings, targeted interventions are recommended for key stakeholders:
-
-### For Students:
-Prioritize Sleep: Aim for the recommended 7−8 hours of sleep, as insufficient sleep is strongly linked to depression.
-Monitor Study Load: Be mindful of study/work hours to prevent burnout.
-use a time managment skills: Balance is Key, Not Constant Work ,Long, unbalanced study hours are linked to depression. 
-
-### For Families:
-Emphasize the importance of a student's health and happiness over academic performance. 
-Financial Dialogue: Proactively discuss and mitigate financial stress, given its strong link to suicidal ideation.
-Create a Supportive Environment: Be aware of a family history of mental illness as a potential risk factor.
-
-### For Institutions/Instructors:
-Implement Early Screening: Use surveys or tools to monitor students' Study Satisfaction and Academic Pressure levels, which are strong indicators of mental distress.
-Promoting sleep and health: Educating students about the importance of sleep and proper nutrition through workshops and campus events
+Implement mental health awareness programs in universities.
+Encourage balanced study schedules and adequate rest.
+Provide financial counseling and psychological support.
+Conduct further studies to include social and emotional factors.
 
 ## Limitations
-absence of chronological progression of the condition, potential missing aspects of the student's full life complexity, and ignoring other significant factors like social support systems or prior traumatic experiences
-
-## Assumption
-The Work Pressure and Job Satisfaction columns are filled with zeros, it might mean the students are not working. 
-
-## Conclusion
-Warning Sign: The most powerful warning sign is suicidal thoughts, which are closely linked to depression.
-Key Risk Factors:
-Age: The 19-24 age group is most vulnerable to depression and suicidal thoughts.
-Stress: High levels of academic stress, especially severe financial stress, significantly increase the risk of depression and suicidal thoughts.
-Lifestyle: Harmful lifestyle factors include an average of 8 hours of work/study per day, poor sleep (less than 5 hours), and unhealthy eating habits.
-By focusing on these specific indicators: age, lifestyle, and stress levels educational institutions and families can implement targeted support systems to intervene before the silent collapse behind success turns into tragedy.
-
+Lacks longitudinal data on depression progression.
+May not fully capture complex social or emotional influences.
+Focused mainly on student lifestyle and academic factors.
 ## Resources 
-[Student Depression Dataset](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset)
-
 [Prevalence of Depression Among Indian Population](https://www.ojhas.org/issue72/2019-4-12.html)
-
-[video](https://youtu.be/vKpGddXSYik?si=7eSoacfQ2VD2I0c3)
-
 [Associations Between Academic Stress and Depressive](https://pmc.ncbi.nlm.nih.gov/articles/PMC8906854/)
-
 [Relationship between night-sleep duration and risk for depression](https://pmc.ncbi.nlm.nih.gov/articles/PMC10017495/)
 
 
